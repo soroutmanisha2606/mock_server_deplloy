@@ -1,0 +1,124 @@
+{
+    "admin": [
+      {
+        "name": "manisha",
+        "age": "14",
+        "place": "",
+        "batch": "",
+        "Profession": "Professionals",
+        "id": 1
+      },
+      {
+        "name": "",
+        "age": "24",
+        "place": "",
+        "batch": "",
+        "Profession": "Professionals",
+        "id": 2
+      },
+      {
+        "name": "manisha",
+        "age": "21",
+        "place": "plawal",
+        "batch": "ptweb_05",
+        "Profession": "students",
+        "id": 3
+      },
+      {
+        "name": "mannu",
+        "age": "20",
+        "place": "pune",
+        "batch": "ptweb_04",
+        "Profession": "Professionals",
+        "id": 4
+      },
+      {
+        "name": "annu",
+        "age": "19",
+        "place": "here",
+        "batch": "ptweb_07",
+        "Profession": "students",
+        "id": 5
+      },
+      {
+        "name": "tanisha",
+        "age": "29",
+        "place": "mumbai",
+        "batch": "ptweb_06",
+        "Profession": "Professionals",
+        "id": 6
+      },
+      {
+        "name": "kundu",
+        "age": "10",
+        "place": "kaithal",
+        "batch": "ptweb_07",
+        "Profession": "students",
+        "id": 7
+      },
+      {
+        "name": "minions",
+        "age": "29",
+        "place": "home",
+        "batch": "ptweb_07",
+        "Profession": "Professionals",
+        "id": 8
+      },
+      {
+        "name": "jaisi",
+        "age": "25",
+        "place": "america",
+        "batch": "ptweb_04",
+        "Profession": "students",
+        "id": 9
+      },
+      {
+        "name": "mahi",
+        "age": "22",
+        "place": "palwal",
+        "batch": "ptweb_05",
+        "Profession": "students",
+        "id": 10
+      },
+      {
+        "name": "mahi",
+        "age": "22",
+        "place": "palwal",
+        "batch": "ptweb_05",
+        "Profession": "Professionals",
+        "id": 11
+      },
+      {
+        "name": "mahi",
+        "age": "21",
+        "place": "any",
+        "batch": "ptweb_04",
+        "Profession": "students",
+        "id": 12
+      },
+      {
+        "name": "mahi",
+        "age": "21",
+        "place": "any",
+        "batch": "ptweb_06",
+        "Profession": "Professionals",
+        "id": 13
+      },
+      {
+        "name": "mahi",
+        "age": "21",
+        "place": "any",
+        "batch": "ptweb_07",
+        "Profession": "students",
+        "id": 14
+      },
+      {
+        "name": "mahi",
+        "age": "21",
+        "place": "any",
+        "batch": "ptweb_05",
+        "Profession": "Professionals",
+        "id": 15
+      }
+    ]
+  }
