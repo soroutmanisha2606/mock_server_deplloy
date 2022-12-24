@@ -1,276 +1,283 @@
 {
-  
   "results": [
-  {
-  "category": "Animals",
-  "type": "multiple",
-  "difficulty": "medium",
-  "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
-  "correct_answer": "Nuts",
-  "incorrect_answers": [
-  "Nothing",
-  "Fruit",
-  "Seaweed"
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+      "correct_answer": "Nuts",
+      "incorrect_answers": [
+        "Nothing",
+        "Fruit",
+        "Seaweed"
+      ],
+      "answers": [
+        "Nothing",
+        "Fruit",
+        "Seaweed",
+        "Nuts"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does a milliner make and sell?",
+      "correct_answer": "Hats",
+      "incorrect_answers": [
+        "Nothing",
+        "Seaweed",
+        "Shirts"
+      ],
+      "answers": [
+        "Nothing",
+        "Hats",
+        "Seaweed",
+        "Shirts"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+      "correct_answer": "Objective-C",
+      "incorrect_answers": [
+        "C#",
+        "Ruby",
+        "C++"
+      ],
+      "answers": [
+        "Objective-C",
+        "C#",
+        "Ruby",
+        "C++"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What age was King Henry V when he died?",
+      "correct_answer": "35",
+      "incorrect_answers": [
+        "62",
+        "87",
+        "73"
+      ],
+      "answers": [
+        "62",
+        "35",
+        "87",
+        "73"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who plays the Nemesis in the Resident Evil movies?",
+      "correct_answer": "Matthew Taylor",
+      "incorrect_answers": [
+        "Jason Dip",
+        "Eric Mabius",
+        "Jimmy Matts"
+      ],
+      "answers": [
+        "Jason Dip",
+        "Eric Mabius",
+        "Matthew Taylor",
+        "Jimmy Matts"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How long was the World Record Speed Run of Valve Software&#039;s &quot;Half-Life&quot; that was done in 2014.",
+      "correct_answer": "20 Minutes, 41 Seconds",
+      "incorrect_answers": [
+        "45 Minutes, 32 Seconds",
+        "5 Minutes, 50 Seconds",
+        "12 Minutes, 59 Seconds"
+      ],
+      "answers": [
+        "45 Minutes, 32 Seconds",
+        "5 Minutes, 50 Seconds",
+        "12 Minutes, 59 Seconds",
+        "20 Minutes, 41 Seconds"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+      "correct_answer": "Turkish",
+      "incorrect_answers": [
+        "German",
+        "Danish",
+        "Polish"
+      ],
+      "answers": [
+        "German",
+        "Danish",
+        "Polish",
+        "Turkish"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the family that the domestic cat is a member of?",
+      "correct_answer": "Felidae",
+      "incorrect_answers": [
+        "Felinae",
+        "Felis",
+        "Cat"
+      ],
+      "answers": [
+        "Felinae",
+        "Felis",
+        "Cat",
+        "Felidae"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How long was Ken Jennings&#039; win streak on Jeopardy?",
+      "correct_answer": "74",
+      "incorrect_answers": [
+        "88",
+        "49",
+        "62"
+      ],
+      "answers": [
+        "74",
+        "88",
+        "49",
+        "62"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Call Of Duty: Zombies&quot;, which map&#039;s opening cutscene shows &quot;Richtofen&quot; killing another version of himself?",
+      "correct_answer": "The Giant",
+      "incorrect_answers": [
+        "Shadows Of Evil",
+        "Der Eisendrache",
+        "Moon"
+      ],
+      "answers": [
+        "Shadows Of Evil",
+        "Der Eisendrache",
+        "Moon",
+        "The Giant"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many years did the Hundred Years&#039; War last?",
+      "correct_answer": "116",
+      "incorrect_answers": [
+        "100",
+        "90",
+        "101"
+      ],
+      "answers": [
+        "100",
+        "116",
+        "90",
+        "101"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Diablo lore, this lesser evil spawned from one of the seven heads of Tathamet, and was known as the Maiden of Anguish.",
+      "correct_answer": "Andariel",
+      "incorrect_answers": [
+        "Valla",
+        "Malthael",
+        "Kashya"
+      ],
+      "answers": [
+        "Andariel",
+        "Valla",
+        "Malthael",
+        "Kashya"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Finding Nemo, what was the name of Nemo&#039;s mom?",
+      "correct_answer": "Coral",
+      "incorrect_answers": [
+        "Sandy",
+        "Pearl",
+        "Shelly"
+      ],
+      "answers": [
+        "Sandy",
+        "Pearl",
+        "Shelly",
+        "Coral"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which King of England was faced with the Peasants&#039; Revolt in 1381?",
+      "correct_answer": "Richard II",
+      "incorrect_answers": [
+        "Edward III",
+        "Edward II",
+        "Henry IV"
+      ],
+      "answers": [
+        "Edward III",
+        "Richard II",
+        "Edward II",
+        "Henry IV"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the lowest amount of max health you can have in Team Fortress 2?",
+      "correct_answer": "70",
+      "incorrect_answers": [
+        "100",
+        "50",
+        "95"
+      ],
+      "answers": [
+        "70",
+        "100",
+        "50",
+        "95"
+      ]
+    }
   ],
-  "answers":[
-    "Nothing",
-  "Fruit",
-  "Seaweed",
-  "Nuts"
-
+  "data": [
+    {
+      "name": "manisha",
+      "category": "Sports",
+      "difficulty": "Easy",
+      "number": "15",
+      "id": 1
+    }
   ]
-  },
-  {
-  "category": "General Knowledge",
-  "type": "multiple",
-  "difficulty": "medium",
-  "question": "What does a milliner make and sell?",
-  "correct_answer": "Hats",
-  "incorrect_answers": [
-  "Nothing",
-  "Seaweed",
-  "Shirts"
-  ],
-  "answers":[
-    "Nothing",
-  "Hats",
-  "Seaweed",
-  "Shirts"
-
-  ]
-  },
-  {
-  "category": "Science: Computers",
-  "type": "multiple",
-  "difficulty": "easy",
-  "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
-  "correct_answer": "Objective-C",
-  "incorrect_answers": [
-  "C#",
-  "Ruby",
-  "C++"
-  ],
-  "answers":[
-    "Objective-C",
-    "C#",
-    "Ruby",
-    "C++"
-
-  ]
-  },
-  {
-  "category": "History",
-  "type": "multiple",
-  "difficulty": "hard",
-  "question": "What age was King Henry V when he died?",
-  "correct_answer": "35",
-  "incorrect_answers": [
-  "62",
-  "87",
-  "73"
-  ],"answers":[
-    "62",
-    "35",
-    "87",
-    "73"
-
-  ]
-  },
-  {
-  "category": "Entertainment: Film",
-  "type": "multiple",
-  "difficulty": "medium",
-  "question": "Who plays the Nemesis in the Resident Evil movies?",
-  "correct_answer": "Matthew Taylor",
-  "incorrect_answers": [
-  "Jason Dip",
-  "Eric Mabius",
-  "Jimmy Matts"
-  ],"answers":[
-    
-    "Jason Dip",
-    "Eric Mabius",
-    "Matthew Taylor",
-    "Jimmy Matts"
-  ]
-  },
-  {
-  "category": "Entertainment: Video Games",
-  "type": "multiple",
-  "difficulty": "hard",
-  "question": "How long was the World Record Speed Run of Valve Software&#039;s &quot;Half-Life&quot; that was done in 2014.",
-  "correct_answer": "20 Minutes, 41 Seconds",
-  "incorrect_answers": [
-  "45 Minutes, 32 Seconds",
-  "5 Minutes, 50 Seconds",
-  "12 Minutes, 59 Seconds"
-  ],"answers":[
-    "45 Minutes, 32 Seconds",
-  "5 Minutes, 50 Seconds",
-  "12 Minutes, 59 Seconds",
-  "20 Minutes, 41 Seconds"
-
-
-  ]
-  },
-  {
-  "category": "General Knowledge",
-  "type": "multiple",
-  "difficulty": "hard",
-  "question": "Which of the following languages does NOT use gender as a part of its grammar?",
-  "correct_answer": "Turkish",
-  "incorrect_answers": [
-  "German",
-  "Danish",
-  "Polish"
-  ],"answers":[
-    "German",
-  "Danish",
-  "Polish",
-  "Turkish"
-
-  ]
-  },
-  {
-  "category": "Animals",
-  "type": "multiple",
-  "difficulty": "medium",
-  "question": "What is the name of the family that the domestic cat is a member of?",
-  "correct_answer": "Felidae",
-  "incorrect_answers": [
-  "Felinae",
-  "Felis",
-  "Cat"
-  ],"answers":[
-    "Felinae",
-  "Felis",
-  "Cat",
-  "Felidae"
-
-  ]
-  },
-  {
-  "category": "Entertainment: Television",
-  "type": "multiple",
-  "difficulty": "medium",
-  "question": "How long was Ken Jennings&#039; win streak on Jeopardy?",
-  "correct_answer": "74",
-  "incorrect_answers": [
-  "88",
-  "49",
-  "62"
-  ],"answers":[
-    "74",
-    "88",
-    "49",
-    "62"
-  ]
-  },
-  {
-  "category": "Entertainment: Video Games",
-  "type": "multiple",
-  "difficulty": "hard",
-  "question": "In &quot;Call Of Duty: Zombies&quot;, which map&#039;s opening cutscene shows &quot;Richtofen&quot; killing another version of himself?",
-  "correct_answer": "The Giant",
-  "incorrect_answers": [
-  "Shadows Of Evil",
-  "Der Eisendrache",
-  "Moon"
-  ],"answers":[
-    "Shadows Of Evil",
-  "Der Eisendrache",
-  "Moon",
-  "The Giant"
-
-  ]
-  },
-  {
-  "category": "History",
-  "type": "multiple",
-  "difficulty": "medium",
-  "question": "How many years did the Hundred Years&#039; War last?",
-  "correct_answer": "116",
-  "incorrect_answers": [
-  "100",
-  "90",
-  "101"
-  ],"answers":[
-    "100",
-    "116",
-  "90",
-  "101"
-
-  ]
-  },
-  {
-  "category": "Entertainment: Video Games",
-  "type": "multiple",
-  "difficulty": "hard",
-  "question": "In Diablo lore, this lesser evil spawned from one of the seven heads of Tathamet, and was known as the Maiden of Anguish.",
-  "correct_answer": "Andariel",
-  "incorrect_answers": [
-  "Valla",
-  "Malthael",
-  "Kashya"
-  ],"answers":[
-    "Andariel",
-    "Valla",
-    "Malthael",
-    "Kashya"
-  ]
-  },
-  {
-  "category": "Entertainment: Film",
-  "type": "multiple",
-  "difficulty": "medium",
-  "question": "In Finding Nemo, what was the name of Nemo&#039;s mom?",
-  "correct_answer": "Coral",
-  "incorrect_answers": [
-  "Sandy",
-  "Pearl",
-  "Shelly"
-  ],"answers":[
-    "Sandy",
-  "Pearl",
-  "Shelly",
-  "Coral"
-
-  ]
-  },
-  {
-  "category": "History",
-  "type": "multiple",
-  "difficulty": "hard",
-  "question": "Which King of England was faced with the Peasants&#039; Revolt in 1381?",
-  "correct_answer": "Richard II",
-  "incorrect_answers": [
-  "Edward III",
-  "Edward II",
-  "Henry IV"
-  ],"answers":[
-    "Edward III",
-    "Richard II",
-    "Edward II",
-    "Henry IV"
-
-  ]
-  },
-  {
-  "category": "Entertainment: Video Games",
-  "type": "multiple",
-  "difficulty": "medium",
-  "question": "What is the lowest amount of max health you can have in Team Fortress 2?",
-  "correct_answer": "70",
-  "incorrect_answers": [
-  "100",
-  "50",
-  "95"
-  ],"answers":[
-    "70",
-    "100",
-    "50",
-    "95"
-  ]
-  }
-  ]
-  }
+}
